@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=3946482&theme=stackoverflow-dark)
 <!--
 **aka91hu/aka91hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
